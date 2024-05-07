@@ -23,12 +23,14 @@ Berikut adalah daftar operasi yang diperlukan pada solusi:
 1. Menambah data dosen (```lecturer```). Fitur ini telah dikembangkan dan tidak ada perubahan yang perlu dilakukan.
 2. Menambah data mahasiswa (```student```). Fitur ini telah dikembangkan dan tidak ada perubahan yang perlu dilakukan.
 3. Menampilkan data mahasiswa secara rinci (```student detail```). Fitur ini telah dikembangkan dan tidak ada perubahan yang perlu dilakukan.
-4. Menambah data mata kuliah (```course```). Fitur ini telah dikembangkan namun perlu dilakukan perubahan, yakni dengan tidak menyertakan tahun akademik, semester pelaksanaan, serta dosen pengampu.
+4. Menambah data mata kuliah (```course```). Fitur ini telah dikembangkan namun perlu dilakukan perubahan, yakni dengan tidak menyertakan tahun akademik, semester pelaksanaan, serta dosen pengampu. 
 5. Menambah data periode pelaksanaan perkuliahan (```course opening```). Sebuah periode pelaksanaan perkuliahan pada dasarnya merupakan jawaban dari persoalan yang dikemukakan pada awal tugas ini.
-6. Menambah data pengambilan mata kuliah (```enrollment```). Fitur ini telah dikembangkan sebelumnya namun perlu dilakukan perubahan relasi. Sebelumnya relasi dilakukan dengan mata kuliah (```course```) kini dengan periode pelaksanaan perkuliahan (```course opening```).
+6. Menambah data pengambilan mata kuliah (```enrollment```). Fitur ini telah dikembangkan sebelumnya namun perlu dilakukan perubahan relasi. Sebelumnya relasi dilakukan dengan mata kuliah (```course```) kini dengan periode pelaksanaan perkuliahan (```course opening```). 
 7. Pemberian nilai pada pengambilan mata kuliah (```grading```). Fitur ini telah dikembangkan dan tidak ada perubahan yang perlu dilakukan.
 8. Pemberian nilai remedial pada pengambilan mata kuliah (```remedial```). Fitur ini telah dikembangkan dan tidak ada perubahan yang perlu dilakukan.
 9. Satu fitur tambahan yang perlu dikembangkan adalah menampilkan sejarah pelaksanaan mata kuliah (```course history```).
+
+
 10. Sebagai tambahan pada kuis kali ini, anda diminta untuk menambah fitur mencari mahasiswa terbaik (```find the best student```).
 11. Kemudian, mahasiswa terbaik tersebut tambahkan ke daftar mahasiswa terbaik (```the best students```).
 
